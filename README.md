@@ -1,0 +1,2 @@
+# Shallow-Network
+Implement the back propagation and prediction algorithms for a three layered feedforward neural network. his tutorial will help you get familiarized with feedforward neural network, its prediction and back propagation algorithms. The Vectorization method is encouraged to use.  How to construct a three layered fully connected neural network. How to implement learning alogorithm - back propagation algorithm. How to apply the learnt model for binary-classification problem.
